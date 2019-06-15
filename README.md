@@ -1,2 +1,1 @@
-# hexlet-basics
-добавим коментарий
+new text
